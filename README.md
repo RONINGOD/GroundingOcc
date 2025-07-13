@@ -16,7 +16,8 @@ Extensive experiments on the benchmark demonstrate that our method outperforms e
 <p align="center"> <a><img src="fig/framework.png" width="90%"></a> </p>
 
 ## Talk2Occ Dataset
-Coming soon~
+* [**Train Set**](https://drive.google.com/file/d/1nvDUOTkKNNH8Wp34k-5g2vMcblq6MI8C/view?usp=sharing )
+* [**Test Set**](https://drive.google.com/file/d/1cs9XJnEH5WyllBGa2vkZHSUykYK6xqey/view?usp=sharing)
 
 ## Acknowledgement
 We gratefully acknowledge the contributions of various open-source projects that supported this work:
